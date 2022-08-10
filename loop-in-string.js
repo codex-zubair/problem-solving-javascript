@@ -1,6 +1,12 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/codingwithrock/problem-solving-javascript.git
-git push -u origin mainJ
+const love = "amar sonar javascript ami tumae valo bashi"
+
+
+// *In for index value
+for (i in love) {
+    console.log(i);
+}
+
+// * of for direct value
+for (j of love) {
+    console.log(j);
+}
