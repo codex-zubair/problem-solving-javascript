@@ -19,5 +19,5 @@ function reverse(student) {
 }
 console.log(reverse(studentOfJhankarVai));
 
-const rKi = "Allah bacaw" + " eder!"
+const rKi = "Allah bacaw " + " eder!"
 console.log(rKi);
