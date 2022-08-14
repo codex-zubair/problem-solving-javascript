@@ -24,4 +24,3 @@ b
 
 const rKi = "Allah bacaw " + " eder!"
 console.log(rKi);
->>>>>>> 63274e787aaedb0e44379eb754937e944752ec92
