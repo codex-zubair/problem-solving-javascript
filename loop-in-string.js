@@ -18,3 +18,4 @@ function reverse(student) {
     return student.split("").reverse().join("");
 }
 console.log(reverse(studentOfJhankarVai));
+b
