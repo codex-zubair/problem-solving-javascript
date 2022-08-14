@@ -1,2 +1,2 @@
 let love = "java Script";
-console.log(love.split('').reverse().join(''));
+console.log(love.split("").reverse().join(""));
