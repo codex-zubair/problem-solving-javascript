@@ -11,16 +11,6 @@ for (j of love) {
     console.log(j);
 }
 
-const studentOfJhankarVai =
-  ".ahahah .ekaht eyin evol ilahk .ahtok elob tneduts re iav raknahJ .ahceg ahtam re reyabuz";
 
-function reverse(student) {
-    return student.split("").reverse().join("");
-}
-console.log(reverse(studentOfJhankarVai));
-<<<<<<< HEAD
-b
-=======
 
-const rKi = "Allah bacaw " + " eder!"
-console.log(rKi);
+
